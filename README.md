@@ -11,4 +11,4 @@ To run the project simply open the given url in you mobile phone's browser or sc
 
 After opening the url scan the given below image to see the project in action
 
-![Image](https://i.imgur.com/A08NT7Q.png)
+![Image](https://i.imgur.com/EiDUo1D.png)
