@@ -7,8 +7,8 @@ To run the project simply open the given url in you mobile phone's browser or sc
 
 [Website Link](https://bucolic-muffin-9ace88.netlify.app/)
 
-[Image](https://i.imgur.com/qJ4qFyt.png)
+![Image](https://i.imgur.com/qJ4qFyt.png)
 
 After opening the url scan the given below image to see the project in action
 
-[Image](https://i.imgur.com/A08NT7Q.png)
+![Image](https://i.imgur.com/A08NT7Q.png)
